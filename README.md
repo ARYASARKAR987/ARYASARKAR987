@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **MERN and NEXT-JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shadowWarrior84](https://github.com/shadowWarrior84)
+- 👨‍💻 All of my projects are available at https://github.com/ARYASARKAR987
 
-- 📝 My Portfolio [https://shadowwarrior84.github.io/Portfolio/](https://shadowwarrior84.github.io/Portfolio/)
+- 📝 My Portfolio https://github.com/ARYASARKAR987
 
 - 💬 Ask me about **react, js, django, mongodb**
 
